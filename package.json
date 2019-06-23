@@ -1,0 +1,32 @@
+{
+	"author": {
+		"name": "Ernesto Jara Olveda",
+		"email": "ernesto.jara06@gmail.com",
+		"url": "https://www.ernestojaraonline.com"
+	},
+	"name": "descktop-app",
+	"version": "1.0.0",
+	"description": "",
+	"main": "src/main.js",
+	"scripts": {
+		"start": "electron .",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"electron"
+	],
+	"license": "MIT",
+	"devDependencies": {
+		"chalk": "2.4.2",
+		"eslint": "6.0.0",
+		"eslint-plugin-import": "2.17.3",
+		"eslint-plugin-node": "9.1.0",
+		"eslint-plugin-prettier": "3.1.0",
+		"eslint-plugin-react": "7.13.0",
+		"prettier-eslint": "9.0.0"
+	},
+	"dependencies": {
+		"electron": "5.0.5",
+		"marked": "0.6.2"
+	}
+}
