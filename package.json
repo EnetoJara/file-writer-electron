@@ -27,6 +27,6 @@
 	},
 	"dependencies": {
 		"electron": "5.0.5",
-		"marked": "0.6.2"
+		"marked": "4.0.10"
 	}
 }
